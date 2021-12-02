@@ -1,3 +1,4 @@
+GET TO KNOW ME
 - 👋 Hi, I’m @samuel-noah
 - 👀 I’m interested in tech development especially in the bio engginering Industry
 - 🌱 I’m currently learning learning Java Script and Phyton. I am a begginer in programming 
